@@ -1,0 +1,10 @@
+2019-04-06 09:12:54,413 user_log.py <module> 10 DEBUG ----------> test
+2019-04-06 09:14:02,422 user_log.py <module> 10 DEBUG ----------> test1234
+2019-04-06 09:15:08,385 user_log.py <module>---> 10:DEBUG ----------> test1234123
+2019-04-06 09:18:20,986 user_log.py -----> <module> 10:DEBUG ----------> test1234123
+2019-04-06 09:19:02,811 user_log.py -----> <module> 10:DEBUG ----------> test1234123
+2019-04-06 09:22:28,025 user_log.py -----> <module> 10:DEBUG ----------> test1234123
+2019-04-06 09:24:31,079 user_log.py -----> <module> 10:DEBUG ----------> test1234123
+2019-04-06 09:26:47,361 user_log.py -----> <module> 10:DEBUG ----------> test1234123
+2019-04-06 09:27:21,713 user_log.py -----> <module> 10:DEBUG ----------> test1234123
+2019-04-06 09:27:44,724 user_log.py -----> <module> 10:DEBUG ----------> test1234123

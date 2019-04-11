@@ -1,0 +1,77 @@
+2019-04-09 21:41:22,112 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:20:29,093 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:20:45,040 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:21:00,684 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:21:16,608 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:21:39,587 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:25:43,803 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:25:59,542 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:26:15,534 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:26:37,502 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:26:56,879 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:27:33,094 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:35:50,324 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:47:34,043 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:47:50,064 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:48:06,081 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:48:21,637 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:48:57,798 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:49:40,004 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:49:55,801 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:50:01,727 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:50:07,760 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:51:09,909 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:51:25,267 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:51:31,311 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:51:36,392 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:53:52,523 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:54:08,413 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:54:32,467 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:54:50,648 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:55:08,809 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:56:36,923 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:57:05,744 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:57:27,029 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:57:45,291 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 22:58:04,154 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:01:12,579 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:01:30,237 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:04:32,929 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019F7A0D2208>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/3a2a15d0fb3b0fa0c76e9e1d14da6a0c/screenshot
+2019-04-09 23:04:33,936 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019F7A0D26D8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/3a2a15d0fb3b0fa0c76e9e1d14da6a0c/screenshot
+2019-04-09 23:04:34,941 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019F7A0B03C8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/3a2a15d0fb3b0fa0c76e9e1d14da6a0c/screenshot
+2019-04-09 23:04:56,101 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:05:07,155 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:08:51,196 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:13:00,538 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:13:25,284 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:13:45,571 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:14:13,799 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:14:34,216 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:15:16,675 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:15:40,703 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:19:47,775 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F236931208>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/cd2006182e032d5cc29f40ca6ba01008/screenshot
+2019-04-09 23:19:48,778 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F2369316D8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/cd2006182e032d5cc29f40ca6ba01008/screenshot
+2019-04-09 23:19:49,781 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F2369103C8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/cd2006182e032d5cc29f40ca6ba01008/screenshot
+2019-04-09 23:20:15,125 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:20:30,734 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:20:37,808 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:21:28,494 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:21:47,474 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:23:05,513 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:23:22,187 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:23:52,948 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))': /session/ca483ded0aed5831347e149c7a9a253f/window
+2019-04-09 23:23:53,994 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019F7A0D2588>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/ca483ded0aed5831347e149c7a9a253f/window
+2019-04-09 23:23:54,478 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))': /session/884d62b5a03177c9f2fe4d40f68474bb/window
+2019-04-09 23:23:55,025 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019F7A0D2550>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/ca483ded0aed5831347e149c7a9a253f/window
+2019-04-09 23:23:55,509 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F236931588>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/884d62b5a03177c9f2fe4d40f68474bb/window
+2019-04-09 23:23:56,556 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F236931550>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/884d62b5a03177c9f2fe4d40f68474bb/window
+2019-04-09 23:24:07,517 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))': /session/6f51082b618235a817f645cd7a61933b/screenshot
+2019-04-09 23:24:08,519 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A21DEDC50>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/6f51082b618235a817f645cd7a61933b/screenshot
+2019-04-09 23:24:09,521 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A21DEDD30>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/6f51082b618235a817f645cd7a61933b/screenshot
+2019-04-09 23:24:09,628 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))': /session/5bb3c4fca8c6a29faf18f4d2be0296d8/screenshot
+2019-04-09 23:24:10,631 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022562D2B198>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/5bb3c4fca8c6a29faf18f4d2be0296d8/screenshot
+2019-04-09 23:24:11,653 connectionpool.py -----> urlopen 30:WARNING ----------> Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022562D2B1D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/5bb3c4fca8c6a29faf18f4d2be0296d8/screenshot
+2019-04-09 23:24:53,368 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:25:08,713 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:30:45,561 first_case.py -----> setUp 20:INFO ----------> this is chrome
+2019-04-09 23:46:21,282 first_case.py -----> setUp 20:INFO ----------> this is chrome
